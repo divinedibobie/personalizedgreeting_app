@@ -1,0 +1,48 @@
+* {
+    background-color: white;
+}
+
+form {
+    padding: 15px;
+    text-align: center;
+}
+
+button {
+    margin-top: 25px;
+    padding: 15px 15px;
+    background-color: white;
+    color: red;
+    border-color: red;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: red;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+    color: red;
+}
+
+.btn {
+    margin-left: 70px;
+    padding: 15px 15px;
+}
+
+.Greetings {
+    margin-top: 80px;
+}
+
+label {
+    color: red;
+}
+
+input {
+    padding: 10px;
+    border-radius: 2px;
+}
